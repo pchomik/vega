@@ -3,6 +3,7 @@
   "license": "BSD-3-Clause",
   "author": "UW Interactive Data Lab (http://idl.cs.washington.edu)",
   "repository": "vega/vega",
+  "version": "4.4.1",
   "scripts": {
     "build": "lerna run build",
     "clean": "lerna clean --yes && lerna exec -- rimraf build && lerna exec -- rimraf LICENSE && rimraf node_modules yarn.lock",
